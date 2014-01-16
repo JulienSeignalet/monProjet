@@ -1,3 +1,5 @@
-1
-12
-123
+//Commentaires du code
+if($test==1)
+{
+	echo 'p1 est là';
+}
