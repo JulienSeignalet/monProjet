@@ -1,10 +1,4 @@
-//Commentaires du code
-if($test==1)
+If($test)
 {
-	//modif de p2
-	echo 'p2 est là';
-	//modif de p1
-	echo 'p1 est là';
-//Ah oui j'oubliais
+       Echo ‘P1 vous dit bonjour’ ;
 }
-//et voilà mon test
