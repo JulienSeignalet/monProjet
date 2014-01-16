@@ -2,4 +2,5 @@
 if($test==1)
 {
 	echo 'p1 est là';
+//Ah oui j'oubliais
 }
