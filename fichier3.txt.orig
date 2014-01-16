@@ -1,0 +1,11 @@
+//Commentaires du code
+if($test==1)
+{
+<<<<<<< HEAD
+	echo 'p2 est là';
+}
+//et voilà mon test
+=======
+	echo 'p1 est là';
+}
+>>>>>>> 173859236e27a255a767bb02ce41e0796bf1a9fd
