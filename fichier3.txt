@@ -1,6 +1,7 @@
 //test p1
+//ajout p2
 If($test)
 {
-       Echo ‘P1 vous dit bonjour’ ;
+       Echo ‘Tout le monde vous dit bonjour’ ;
        Echo ‘Opération terminée’ ;
 }
